@@ -13,4 +13,6 @@ print("Hello, World!")
 var s: String?
 var a: [AnyObject]?
 var d: [String: String]?
-print(a~~)
+var c: [String: AnyObject]?
+
+print(~~d)
